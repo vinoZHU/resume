@@ -12,3 +12,5 @@
 
 >博客： http://vinoit.me & http://www.cnblogs.com/vinozly/
 
+## 学习/项目经历
+大约从大一下开始进入实验室从事一些java的项目开发
