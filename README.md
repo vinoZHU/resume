@@ -7,3 +7,8 @@
 >学校： 杭州师范大学
 
 >专业： 计算机科学与技术
+
+>学历： 现大三
+
+>博客： http://vinoit.me & http://www.cnblogs.com/vinozly/
+
