@@ -10,7 +10,7 @@
 
 >学历： 现大三
 
->博客： http://vinoit.me （原创或者自己整理为主） & http://www.cnblogs.com/vinozly/ （转载为主）
+>博客： https://vinoit.me （原创或者自己整理为主） & http://www.cnblogs.com/vinozly/ （转载为主）
 
 >联系方式：手机17764577896 & QQ942601062
 
